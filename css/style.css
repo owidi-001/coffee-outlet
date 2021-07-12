@@ -10,7 +10,8 @@
   --black: #000;
   --light: #e7e7e7;
   --dark: #444;
-  --choco: #583400;
+  /* --choco: #583400; */
+  --choco: golden-rod;
   --mainTransitions: linear 0.2s;
   --font: "Montserrat", sans-serif;
 }
